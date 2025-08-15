@@ -58,6 +58,11 @@ li:hover {
     justify-content: space-around;
 }
 
+.games_heading{
+    justify-items: center;
+    font-size: 20px;
+}
+
 .game-img {
     width: 100%;
     border-radius: 5px;
@@ -88,8 +93,17 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    background-color: white;
 }
 
+button:hover {
+    font-family: 'Cabin';
+    border: none;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 7px;
+    background-color: rgb(8, 153, 202);
+}
 .stats-container {
     display: flex;
     align-items: center;
@@ -97,5 +111,5 @@ button {
 
 .stats-container:hover { 
     cursor: pointer;
-    box-shadow: 0 0 30px rgb(10, 18, 20);
+    box-shadow: 0 0 30px rgb(57, 127, 144);
 }

@@ -27,19 +27,11 @@ The following **optional** features are implemented:
  * [🫶] Error handling for missing images and data
 
 ## Video Walkthrough
-
-[![Watch the video](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png)](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
-
-Here's a walkthrough of implemented features:
-
+Screen shot
 <img src='https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Here's a walkthrough of implemented features:
+[![Watch the video](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png)](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 ## Notes
 

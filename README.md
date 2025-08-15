@@ -28,6 +28,10 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
+[![Watch the video]
+(https://github.com/SameeraaGKan/web102_prework/blob/main/assets/Screenshot%202025-08-15%20135208.png)]
+(https://github.com/SameeraaGKan/web102_prework/blob/main/assets/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
+
 Here's a walkthrough of implemented features:
 
 <img src='./' title='Video Walkthrough' width='' alt='Video Walkthrough' />

@@ -34,7 +34,50 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+### Challenges Encountered
+
+**DOM Manipulation Complexity**: One of the biggest challenges was implementing the filtering system that required complete removal and recreation of game cards. Initially struggled with memory leaks when not properly removing child elements, which was solved by implementing the `deleteChildElements()` function.
+
+**Data Processing and Statistics**: Calculating various statistics (total contributions, funding amounts, unfunded games count) required careful use of JavaScript's `reduce()` method. The challenge was ensuring accurate calculations while maintaining code readability and performance.
+
+**Template Literals and Dynamic Content**: Creating dynamic HTML content using template literals while ensuring proper escaping and handling of missing data (like images) required careful attention to detail and error handling.
+
+**Responsive Design**: Balancing the flexbox layout to work across different screen sizes while maintaining the card-based design was challenging, especially ensuring proper spacing and alignment.
+
+**Event Handling**: Implementing the filtering buttons required understanding event delegation and ensuring that event listeners were properly attached and that the filtering functions correctly updated the DOM.
+
+**Array Methods Mastery**: This project required extensive use of modern JavaScript array methods (`filter()`, `reduce()`, `sort()`) which initially felt overwhelming but became more intuitive through practice.
+
+## Technical Implementation Details
+
+### Key Components Built
+
+**Statistics Dashboard**: Implemented using `reduce()` to calculate total contributions, total funding, and game counts, with `toLocaleString()` for proper number formatting.
+
+**Dynamic Filtering System**: Used `filter()` method combined with DOM manipulation to show/hide games based on funding status, with smooth transitions.
+
+**Game Card Generation**: Created reusable function `addGamesToPage()` that uses template literals to generate consistent card layouts for all games.
+
+**Top Games Ranking**: Implemented sorting algorithm using `sort()` with destructuring assignment to identify and display the highest-funded games.
+
+### Code Organization
+
+The project follows a modular approach with clear separation of concerns:
+- Data import and processing
+- DOM manipulation functions  
+- Event handling and user interactions
+- Statistics calculation and display
+
+## Future Enhancements
+
+If given more time, potential improvements could include:
+- Search functionality to find specific games
+- More detailed game information in modal windows
+- User authentication and favorites system
+- Real-time funding progress bars
+- Integration with actual payment processing
+- Advanced sorting options (by date, category, etc.)
+- Accessibility improvements (screen reader support, keyboard navigation)
 
 ## License
 

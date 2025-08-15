@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #aed2fd;
 }
 
 #tentacles {
@@ -11,12 +11,28 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: rgb(56, 163, 240);
     padding: 1%;
+    justify-content: center;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  gap: 10px; /* Adjust as needed for spacing between items */
+  list-style-type: none; /* Optional: Remove default bullet points */
+  padding: 10px; /* Optional: Remove default padding */
+  margin: 20px; /* Optional: Remove default margin */
+  cursor: pointer;
+}
+
+li:hover {
+  /* Add any specific styling for your list items here */
+  text-decoration: overline white;
 }
 
 .stats-container {
@@ -24,7 +40,7 @@ body {
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #f4f7fd;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -59,7 +75,7 @@ body {
 
 .game-card:hover {
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(234, 254, 255);
 }
 
 #button-container {
@@ -81,5 +97,5 @@ button {
 
 .stats-container:hover { 
     cursor: pointer;
-    box-shadow: 0 0 30px lightblue;
+    box-shadow: 0 0 30px rgb(10, 18, 20);
 }

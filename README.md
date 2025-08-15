@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Monstern Inc.*
 
-Submitted by: **Your Name Here**
+Submitted by: **Sameeraa Kandalgaonkar**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Monstern Inc.** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **X** hours spent in total
 
@@ -10,20 +10,27 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [🫶 ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [🫶] The introduction section explains the background of the company and how many games remain unfunded.
+* [🫶] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [🫶] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [🫶] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+ * [🫶] Responsive design that works on desktop and mobile devices
+ * [🫶] Hover effects on game cards and buttons for better user interaction
+ * [🫶] Dynamic calculation and display of unfunded games count in the introduction
+ * [🫶] Proper formatting of numbers with commas for better readability
+ * [🫶] Clean card-based layout for individual games with images and descriptions
+ * [🫶] Smooth transitions and animations for filtering operations
+ * [🫶] Professional styling with custom fonts and color scheme
+ * [🫶] Error handling for missing images and data
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

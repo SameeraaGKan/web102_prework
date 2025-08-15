@@ -26,17 +26,15 @@ The following **optional** features are implemented:
  * [🫶] Professional styling with custom fonts and color scheme
  * [🫶] Error handling for missing images and data
 
-
-
-    ## Video Walkthrough
-* Screen shot
+## Video Walkthrough
+Screen shot
 <img src='https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 Here's a walkthrough of implemented features:
-[![Watch the video](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png)]
-(https://youtu.be/BPosCGXX1Nk)
+[![Watch the video](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png)](https://youtu.be/BPosCGXX1Nk)
 
 
+    
 ## Notes
 
 ### Challenges Encountered

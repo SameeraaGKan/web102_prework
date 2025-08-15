@@ -27,11 +27,20 @@ The following **optional** features are implemented:
  * [🫶] Error handling for missing images and data
 
 ## Video Walkthrough
-Screen shot
+
 <img src='https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 Here's a walkthrough of implemented features:
-[![Watch the video](https://raw.githubusercontent.com/SameeraaGKan/web102_prework/main/assets/Screenshot%202025-08-15%20135208.png)](https://youtu.be/BPosCGXX1Nk)
+
+<iframe 
+    width="600" 
+    height="340" 
+    src="https://www.youtube.com/embed/BPosCGXX1Nk" 
+    title="Video Walkthrough" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
 
 ## Notes
 
